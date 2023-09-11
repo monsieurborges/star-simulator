@@ -1,0 +1,15 @@
+# Mac config file
+._*
+*~
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+Icon?
+*.user
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+bin/
